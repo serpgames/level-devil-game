@@ -54,12 +54,10 @@ This page is the README landing page for the Level Devil browser game on SERP Ga
 
 ## Similar Games
 
-- [NSMB Mario Vs Luigi - KKT's Gooffy Little Mod](https://games.serp.co/games/nsmb-mario-vs-luigi/)
-- [Simple Platformer](https://games.serp.co/games/simple-platformer/)
-- [3D Box Game](https://games.serp.co/games/3d-box-game/)
-- [Adventure Game](https://games.serp.co/games/adventure-game/)
-- [Adventure Game New](https://games.serp.co/games/adventure-game-new/)
-- [Aero Acrobat](https://games.serp.co/games/aero-acrobat/)
+- [BadIceCream 2](https://github.com/serpgames/bad-ice-cream-2-game)
+- [Traffic Escape](https://github.com/serpgames/traffic-escape-game)
+- [Snake](https://github.com/serpgames/snake-game)
+- [Tetris](https://github.com/serpgames/tetris-game)
 
 ## Play Now
 
